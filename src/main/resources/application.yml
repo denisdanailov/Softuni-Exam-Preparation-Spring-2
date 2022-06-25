@@ -3,7 +3,7 @@ spring:
     driverClassName: com.mysql.cj.jdbc.Driver
     url: "jdbc:mysql://localhost:3306/coffeeshop_db?useSSL=false&createDatabaseIfNotExist=true&serverTimezone=UTC"
     username: root
-    password: 
+    password: starwars2005
   sql:
     init:
       mode: always
